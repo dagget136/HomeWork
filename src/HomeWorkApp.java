@@ -1,3 +1,9 @@
+/**
+ * Java 1. Home work 1
+ *
+ * @author Toryanik Vladimir
+ * @version 06 Sep 2021
+ */
 public class HomeWorkApp {
 	public static void main(String[] args) {
 	printThreeWords();
